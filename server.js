@@ -18,6 +18,8 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/social-network-
     useFindAndModify: false
 });
 
+
+
 mongoose.set('debug', true);
 
 app.listen(PORT, () => {

@@ -20,6 +20,8 @@
   "homepage": "https://github.com/elenavaleeva/NoSQL-Social-Network-API#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "middleware": "^1.0.0",
+    "module": "^1.0.0",
     "moment": "^2.29.4",
     "mongoose": "^7.0.3"
   }
